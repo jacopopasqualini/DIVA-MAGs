@@ -2,7 +2,7 @@
 
 DIVA-MAGs is a bacterial microdiversty explorer. It allows to compare SNVs call from different experiment and different MAGs (eg obtained by de-novo assembly) both vith visualization and producing tabular data containing SNVs frequencies obtained both with classical binning and sliding window strategies.
 
-![GitHub Logo](./graphical_abstract/logo.png)
+![DMLOGO](./graphical_abstract/logo.png)
 
 ## REQUIREMENRTS
 The program was written using the following libraries:
