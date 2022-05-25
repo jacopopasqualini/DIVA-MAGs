@@ -1,0 +1,10 @@
+{
+	"DATA_DIR":"./DIVA-MAGs",
+	"window_size":15000,
+	"step_size":2000,
+	"pc_threshold":20,
+	"compare_experiments":1,
+	"comparison_height":0,
+	"experiments":["BP2","BP1"],
+	"MAGs":["08sgBP_415.fa","23ysBP_6.fa","28xzH2_30.fa"]
+}
